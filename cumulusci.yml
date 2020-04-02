@@ -23,3 +23,7 @@ flows:
         steps:
             3:
             task: load_dataset
+    config_dev:
+        steps:
+            6:
+            task: load_dataset
