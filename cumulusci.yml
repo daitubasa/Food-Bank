@@ -22,8 +22,8 @@ flows:
     config_qa:
         steps:
             3:
-            task: load_dataset
+                task: load_dataset
     config_dev:
         steps:
-            6:
-            task: load_dataset
+            3:
+                task: load_dataset
